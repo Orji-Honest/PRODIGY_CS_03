@@ -73,7 +73,7 @@ Strength levels:
 git clone https://github.com/Orji-Honest/password-complexity-checker.git
 
 # Navigate into the project folder
-cd password-complexity-checker
+cd PRODIGY_CS_03
 
 # Run the tool
 python task03_password_checker.py
